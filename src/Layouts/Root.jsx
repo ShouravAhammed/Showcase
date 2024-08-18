@@ -1,0 +1,17 @@
+import { Outlet } from "react-router-dom";
+import Navbar from "../Components/Shared/Navbar";
+
+
+const Root = () => {
+    return (
+        <div className="font-Poppins">
+            <Navbar/>
+
+            <div className="max-w-7xl mx-auto border-2 border-red-500 px-2">
+                <Outlet/>
+            </div>
+        </div>
+    );
+};
+
+export default Root;

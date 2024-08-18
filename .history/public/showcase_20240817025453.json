@@ -1,0 +1,153 @@
+[
+    {
+        "productName": "Asus TUF Gaming AX5400",
+        "brandName": "Asus",
+        "image": "https://i.ibb.co/YpSgS45/Asus-TUF-Gaming-AX5400-5400mbps-6-Antenna-Dual-Band-Wi-Fi-6-Ai-Mesh-Gaming-Router.png",
+        "description": "5400Mbps 6 Antenna Dual Band WiFi-6 AiMesh Gaming Router",
+        "price": 299.99,
+        "category": "Router",
+        "ratings": 4.8,
+        "creationDate": "2024-09-09"
+    },
+    {
+        "productName": "ASUS ZenBook 14 UM425UA",
+        "brandName": "ASUS",
+        "image": "https://i.ibb.co/ysRyC9D/ASUS-Zen-Book-14-UM425-UA-Ryzen-5-5500-U-14.png",
+        "description": "Ryzen 5 5500U 14-inch laptop with high performance and sleek design.",
+        "price": 899.99,
+        "category": "Laptop",
+        "ratings": 4.7,
+        "creationDate": "2024-09-10"
+    },
+    {
+        "productName": "Corsair CV650",
+        "brandName": "Corsair",
+        "image": "https://i.ibb.co/N3hvVjh/Corsair-CV650-650-Watt-80-Plus-Bronze-Certified-Power-Supply.png",
+        "description": "650W 80 Plus Bronze Certified Power Supply with reliable performance.",
+        "price": 69.99,
+        "category": "Power Supply",
+        "ratings": 4.5,
+        "creationDate": "2024-09-11"
+    },
+    {
+        "productName": "Aptech NCP-067 Laptop Cooler",
+        "brandName": "Aptech",
+        "image": "https://i.ibb.co/N3hvVjh/Corsair-CV650-650-Watt-80-Plus-Bronze-Certified-Power-Supply.png",
+        "description": "Laptop cooler suitable for laptops up to 17 inches, with adjustable fan speed and ergonomic design.",
+        "price": 29.99,
+        "category": "Accessories",
+        "ratings": 4.4,
+        "creationDate": "2024-09-12"
+    },
+    {
+        "productName": "Deepcool AK500S Digital CPU Cooler",
+        "brandName": "Deepcool",
+        "image": "https://i.ibb.co/PmR7hFj/Deepcool-AK500-S-Digital-CPU-Cooler-1.png",
+        "description": "High-performance CPU cooler with digital display and advanced cooling technology.",
+        "price": 79.99,
+        "category": "Accessories",
+        "ratings": 4.7,
+        "creationDate": "2024-09-13"
+    },
+    {
+        "productName": "Fantech HG-21 Gaming Headset",
+        "brandName": "Fantech",
+        "image": "https://i.ibb.co/BrDdchY/Fantech-hg-21.png",
+        "description": "Comfortable over-ear gaming headset with surround sound and noise-canceling microphone.",
+        "price": 39.99,
+        "category": "Accessories",
+        "ratings": 4.3,
+        "creationDate": "2024-09-14"
+    },
+    {
+        "productName": "HP EX900 M.2 250GB PCIe NVMe Internal SSD",
+        "brandName": "HP",
+        "image": "https://i.ibb.co/YQff6Tq/HP-EX900-M-2-250-GB-PCIe-NVMe-Internal-SSD-1.png",
+        "description": "High-speed 250GB PCIe NVMe M.2 internal SSD for fast data transfer and improved system performance.",
+        "price": 59.99,
+        "category": "Storage",
+        "ratings": 4.6,
+        "creationDate": "2024-09-15"
+    },
+    {
+        "productName": "HP EX900 Plus M.2 512GB PCIe NVMe Internal SSD",
+        "brandName": "HP",
+        "image": "https://i.ibb.co/TbVCQrz/HP-EX900-Plus-M-2-512-GB-PCIe-NVMe-Internal-SSD.png",
+        "description": "512GB PCIe NVMe M.2 internal SSD with enhanced speed and reliability for superior system performance.",
+        "price": 89.99,
+        "category": "Storage",
+        "ratings": 4.7,
+        "creationDate": "2024-09-16"
+    },
+    {
+        "productName": "JBL PartyBox Encore Essential",
+        "brandName": "JBL",
+        "image": "https://i.ibb.co/Y3VVLgM/JBL-Party-Box-Encore-Essential-100-W-Portable-Bluetooth-Speaker.png",
+        "description": "100W portable Bluetooth speaker with powerful sound, built-in light show, and 6-hour battery life.",
+        "price": 199.99,
+        "category": "Speaker",
+        "ratings": 4.8,
+        "creationDate": "2024-09-17"
+    },
+    {
+        "productName": "Lexar NM610 1TB M.2 2280 NVMe SSD",
+        "brandName": "Lexar",
+        "image": "https://i.ibb.co/LZrf4T3/Lexar-NM610-1-TB-M-2-2280-NVMe-SSD.png",
+        "description": "1TB M.2 2280 NVMe SSD offering fast read/write speeds for enhanced system performance and efficient storage solutions.",
+        "price": 109.99,
+        "category": "Storage",
+        "ratings": 4.7,
+        "creationDate": "2024-09-18"
+    },
+    {
+        "productName": "LG UltraGear 24MP60G",
+        "brandName": "LG",
+        "image": "https://i.ibb.co/kx758jK/LG-Ultra-Gear-24-MP60-G-24-FHD-IPS-Free-Sync-Gaming-Monitor-1.png",
+        "description": "24-inch FHD IPS gaming monitor with FreeSync technology, 75Hz refresh rate, and ultra-slim design for a smooth gaming experience.",
+        "price": 179.99,
+        "category": "Monitor",
+        "ratings": 4.6,
+        "creationDate": "2024-07-07"
+    },
+    {
+        "productName": "Logitech G-402 Hyperion Fury",
+        "brandName": "Logitech",
+        "image": "https://i.ibb.co/xgbrS80/Logitech-G-402.png",
+        "description": "High-speed gaming mouse with 8 programmable buttons, adjustable DPI, and advanced tracking technology.",
+        "price": 49.99,
+        "category": "Mouse",
+        "ratings": 4.7,
+        "creationDate": "2024-08-12"
+    },
+    {
+        "productName": "MSI PRO MP273QP",
+        "brandName": "MSI",
+        "image": "https://i.ibb.co/P9BJCLj/MSI-PRO-MP273-QP-27.png",
+        "description": "27-inch QHD monitor with IPS panel, 75Hz refresh rate, and slim design for professional and multimedia use.",
+        "price": 249.99,
+        "category": "Monitor",
+        "ratings": 4.5,
+        "creationDate": "2024-08-06"
+    },
+    {
+        "productName": "Razer Basilisk V3 Pro RGB",
+        "brandName": "Razer",
+        "image": "https://i.ibb.co/NsBLJZ0/Razer-Basilisk-V3-Pro-RGB-Ergonomic-Wireless-Gaming-Mouse-Global.png",
+        "description": "Ergonomic wireless gaming mouse with customizable RGB lighting, high-precision sensor, and programmable buttons for an enhanced gaming experience.",
+        "price": 149.99,
+        "category": "Mouse",
+        "ratings": 4.8,
+        "creationDate": "2024-07-20"
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+]

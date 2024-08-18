@@ -1,0 +1,88 @@
+[
+    {
+        "productName": "Asus TUF Gaming AX5400",
+        "brandName": "Asus",
+        "image": "https://i.ibb.co/YpSgS45/Asus-TUF-Gaming-AX5400-5400mbps-6-Antenna-Dual-Band-Wi-Fi-6-Ai-Mesh-Gaming-Router.png",
+        "description": "5400Mbps 6 Antenna Dual Band WiFi-6 AiMesh Gaming Router",
+        "price": 299.99,
+        "category": "Router",
+        "ratings": 4.8,
+        "creationDate": "2024-09-09T09:00:00Z"
+    },
+    {
+        "productName": "ASUS ZenBook 14 UM425UA",
+        "brandName": "ASUS",
+        "image": "https://i.ibb.co/ysRyC9D/ASUS-Zen-Book-14-UM425-UA-Ryzen-5-5500-U-14.png",
+        "description": "Ryzen 5 5500U 14-inch laptop with high performance and sleek design.",
+        "price": 899.99,
+        "category": "Laptop",
+        "ratings": 4.7,
+        "creationDate": "2024-09-10T10:00:00Z"
+    },
+    {
+        "productName": "Corsair CV650",
+        "brandName": "Corsair",
+        "image": "https://i.ibb.co/N3hvVjh/Corsair-CV650-650-Watt-80-Plus-Bronze-Certified-Power-Supply.png",
+        "description": "650W 80 Plus Bronze Certified Power Supply with reliable performance.",
+        "price": 69.99,
+        "category": "Power Supply",
+        "ratings": 4.5,
+        "creationDate": "2024-09-11T11:00:00Z"
+    },
+    {
+        "productName": "Aptech NCP-067 Laptop Cooler",
+        "brandName": "Aptech",
+        "image": "https://i.ibb.co/N3hvVjh/Corsair-CV650-650-Watt-80-Plus-Bronze-Certified-Power-Supply.png",
+        "description": "Laptop cooler suitable for laptops up to 17 inches, with adjustable fan speed and ergonomic design.",
+        "price": 29.99,
+        "category": "Accessories",
+        "ratings": 4.4,
+        "creationDate": "2024-09-12T12:00:00Z"
+    },
+    {
+        "productName": "Deepcool AK500S Digital CPU Cooler",
+        "brandName": "Deepcool",
+        "image": "https://i.ibb.co/PmR7hFj/Deepcool-AK500-S-Digital-CPU-Cooler-1.png",
+        "description": "High-performance CPU cooler with digital display and advanced cooling technology.",
+        "price": 79.99,
+        "category": "Accessories",
+        "ratings": 4.7,
+        "creationDate": "2024-09-13T13:00:00Z"
+    },
+    {
+        "productName": "Fantech HG-21 Gaming Headset",
+        "brandName": "Fantech",
+        "image": "https://i.ibb.co/BrDdchY/Fantech-hg-21.png",
+        "description": "Comfortable over-ear gaming headset with surround sound and noise-canceling microphone.",
+        "price": 39.99,
+        "category": "Accessories",
+        "ratings": 4.3,
+        "creationDate": "2024-09-14T14:00:00Z"
+    },
+    {
+        "productName": "HP EX900 M.2 250GB PCIe NVMe Internal SSD",
+        "brandName": "HP",
+        "image": "https://i.ibb.co/YQff6Tq/HP-EX900-M-2-250-GB-PCIe-NVMe-Internal-SSD-1.png",
+        "description": "High-speed 250GB PCIe NVMe M.2 internal SSD for fast data transfer and improved system performance.",
+        "price": 59.99,
+        "category": "Storage",
+        "ratings": 4.6,
+        "creationDate": "2024-09-15T15:00:00Z"
+    },
+    {
+        "productName": "HP EX900 Plus M.2 512GB PCIe NVMe Internal SSD",
+        "brandName": "HP",
+        "image": "https://i.ibb.co/TbVCQrz/HP-EX900-Plus-M-2-512-GB-PCIe-NVMe-Internal-SSD.png",
+        "description": "512GB PCIe NVMe M.2 internal SSD with enhanced speed and reliability for superior system performance.",
+        "price": 89.99,
+        "category": "Storage",
+        "ratings": 4.7,
+        "creationDate": "2024-09-16T16:00:00Z"
+    }
+    
+    
+    
+    
+    
+    
+]

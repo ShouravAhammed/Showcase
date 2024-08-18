@@ -1,0 +1,44 @@
+[
+    {
+        "productName": "Asus TUF Gaming AX5400",
+        "brandName": "Asus",
+        "image": "https://i.ibb.co/YpSgS45/Asus-TUF-Gaming-AX5400-5400mbps-6-Antenna-Dual-Band-Wi-Fi-6-Ai-Mesh-Gaming-Router.png",
+        "description": "5400Mbps 6 Antenna Dual Band WiFi-6 AiMesh Gaming Router",
+        "price": 299.99,
+        "category": "Router",
+        "ratings": 4.8,
+        "creationDate": "2024-09-09T09:00:00Z"
+    },
+    {
+        "productName": "ASUS ZenBook 14 UM425UA",
+        "brandName": "ASUS",
+        "image": "https://i.ibb.co/ysRyC9D/ASUS-Zen-Book-14-UM425-UA-Ryzen-5-5500-U-14.png",
+        "description": "Ryzen 5 5500U 14-inch laptop with high performance and sleek design.",
+        "price": 899.99,
+        "category": "Laptop",
+        "ratings": 4.7,
+        "creationDate": "2024-09-10T10:00:00Z"
+    },
+    {
+        "productName": "Corsair CV650",
+        "brandName": "Corsair",
+        "image": "https://i.ibb.co/N3hvVjh/Corsair-CV650-650-Watt-80-Plus-Bronze-Certified-Power-Supply.png",
+        "description": "650W 80 Plus Bronze Certified Power Supply with reliable performance.",
+        "price": 69.99,
+        "category": "Power Supply",
+        "ratings": 4.5,
+        "creationDate": "2024-09-11T11:00:00Z"
+    },
+    {
+        "productName": "Aptech NCP-067 Laptop Cooler",
+        "brandName": "Aptech",
+        "image": "https://i.ibb.co/N3hvVjh/Corsair-CV650-650-Watt-80-Plus-Bronze-Certified-Power-Supply.png",
+        "description": "Laptop cooler suitable for laptops up to 17 inches, with adjustable fan speed and ergonomic design.",
+        "price": 29.99,
+        "category": "Accessories",
+        "ratings": 4.4,
+        "creationDate": "2024-09-12T12:00:00Z"
+    }
+    
+    
+]
